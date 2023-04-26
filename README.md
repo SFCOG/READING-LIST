@@ -13,4 +13,8 @@ https://www.amazon.com/Being-You-New-Science-Consciousness/dp/1524742872
 
 https://www.pnas.org/doi/epdf/10.1073/pnas.2105646118
 
+or
+
+https://github.com/SFCOG/READING-LIST/raw/main/pnas.2105646118.pdf
+
 ## GROUP #3 : 
