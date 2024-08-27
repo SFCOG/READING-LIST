@@ -18,3 +18,7 @@ or
 https://github.com/SFCOG/READING-LIST/raw/main/pnas.2105646118.pdf
 
 ## GROUP #3 : 
+
+## GROUP 15 : 
+
+https://gwern.net/doc/psychology/linguistics/2024-fedorenko.pdf
